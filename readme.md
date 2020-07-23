@@ -2,7 +2,9 @@
 
 This project is aimed at trying to understand the word dynamics between two people in a whatsapp chat to try and understand their sentiment. This is just a fun project I came up with to out of curiosity.
 
+<p align="center">
 ![Laid To Rest](https://github.com/manand881/Whatsapp-Wordcloud-Generator/blob/master/Laid%20To%20Rest.png)
+</p>
 
 ## Installation
 
