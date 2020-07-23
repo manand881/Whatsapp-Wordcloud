@@ -4,6 +4,10 @@ This project is aimed at trying to understand the word dynamics between two peop
 
 ![Laid To Rest](https://github.com/manand881/Whatsapp-Wordcloud-Generator/blob/master/Laid%20To%20Rest.png)
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/manand881/Whatsapp-Wordcloud-Generator/blob/master/Laid%20To%20Rest.png">
+</p>
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [wordcloud](https://pypi.org/project/wordcloud/) and [matplotlib](https://pypi.org/project/matplotlib/).
