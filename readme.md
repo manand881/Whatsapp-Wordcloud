@@ -2,7 +2,7 @@
 
 This project is aimed at trying to understand the word dynamics between two people in a whatsapp chat to try and understand their sentiment. This is just a fun project I came up with to out of curiosity.
 
-![Aeromancy](Example\Aeromancy.png)
+![Aeromancy](Example/Aeromancy.png)
 
 ## Installation
 
