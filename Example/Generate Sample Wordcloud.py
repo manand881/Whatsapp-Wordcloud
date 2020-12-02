@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt                     # importing matplotliib to p
 
 text=str()                                          # creating an empty string
 
-f=open("Laid to Rest Lyrics.txt",encoding="utf8")   # opening the lyric file 
+f=open("Aeromancy.txt",encoding="utf8")             # opening the lyric file 
 
 
 for line in f:
